@@ -1,4 +1,5 @@
-#!/usr/bin/env python3                            import requests, json, os, sys
+#!/usr/bin/env python3
+import requests, json, os, sys
 from rich.panel import Panel
 from rich import print
 from rich.console import Console
@@ -52,7 +53,7 @@ if __name__ == '__main__':
     try:
         Console(width=40, style="bold plum4").print(Panel("[italic white]Silahkan Masukan Username Dengan Benar, Misalnya :[italic green] Rozhak_Official"))
         username = Console().input("[bold white][[bold green]*[bold white]][bold white] Username : ")
-        if len(username) <= 2:
+        if len(username) <= 3:
             Console(width=40, style="bold plum4").print(Panel("[bold red]Masukan Username Dengan Benar!"));sys.exit()
         else:
             __Search__(username)
