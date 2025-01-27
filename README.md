@@ -4,17 +4,17 @@
 TikSub adalah sebuah alat (tools) yang dirancang untuk membantu Anda mendapatkan **Pengikut (Followers)**, **Like**, dan **Views** di TikTok dengan mudah dan cepat. Alat ini menggunakan layanan dari [Traodoisub](https://traodoisub.com) untuk melakukan pertukaran koin yang dapat digunakan untuk meningkatkan popularitas akun TikTok Anda.
 
 ## 🛠️ Fitur Utama
-- **Dapatkan Like**: Tukarkan koin Anda untuk mendapatkan like pada video TikTok.
-- **Auto Clicker Support**: Gunakan auto clicker untuk menjalankan misi secara otomatis.
-- **Misi Like & Follow**: Jalankan misi Like dan Follow untuk mengumpulkan koin.
 - **Dapatkan Pengikut (Followers)**: Tukarkan koin Anda untuk mendapatkan pengikut TikTok.
+- **Auto Clicker Support**: Gunakan auto clicker untuk menjalankan misi secara otomatis.
+- **Dapatkan Like**: Tukarkan koin Anda untuk mendapatkan like pada video TikTok.
+- **Misi Like & Follow**: Jalankan misi Like dan Follow untuk mengumpulkan koin.
 - **Dapatkan Views**: Tukarkan koin Anda untuk mendapatkan views pada video TikTok.
 
 ## 📦 Prasyarat
 - **Akun Traodoisub**: Anda perlu memiliki akun di [Traodoisub](https://traodoisub.com) untuk mendapatkan akses token.
-- **Aplikasi TikTok**: Pastikan Anda telah menginstal aplikasi TikTok di perangkat Anda.
 - **Auto Clicker**: Disarankan untuk menggunakan auto clicker agar misi dapat dijalankan secara otomatis.
 - **Python 3**: Pastikan Python 3 telah terinstal di sistem Anda.
+- **Aplikasi TikTok**: Pastikan Anda telah menginstal aplikasi TikTok di perangkat Anda.
 
 ## 🚀 Instalasi
 ```bash
